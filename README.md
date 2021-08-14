@@ -18,7 +18,7 @@ First, the model will be fitted using Linear Regression. After fitting and testi
 
 Inside my repo, I will be including:
 
-1. [Dataset](https://github.com/iw30/Modelling-Wine-Preferences/blob/main/winequality-red.csv): The dataset used for the project. 
+1. [Dataset](https://github.com/iw30/Modelling-Wine-Preferences/blob/main/winequality-red.csv): The dataset used for this project. 
 2. [MATLAB code](https://github.com/iw30/Modelling-Wine-Preferences/blob/main/ieor165_proj.m): The MATLAB will include the process of computing the coefficient of linear models relating to different features of wine using Ordinary Least Squares, Ridge Regression, and Lasso Regression through MATLAB.
 3. [MATLAB Report](https://github.com/iw30/Modelling-Wine-Preferences/blob/main/William_Wijaya_IEOR165proj.pdf): The report will contain the result from MATLAB.
 4. [Phyton code](https://github.com/iw30/Modelling-Wine-Preferences/blob/main/wine.ipynb): This includes the Phyton code on the further exploration that I did. 
